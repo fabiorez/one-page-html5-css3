@@ -3,8 +3,8 @@ aula02 - Planejamento                       - ok
          sites imagens: iconfinder.com > icon-icons.com/pt/ > pixabay.com/pt/
          site comprimir imagens: imagecompressor.com/pt/
 aula03 - Criando um repositorio no github   - ok
-aula04 - Instalacao vscode, git e estrutura - 
-aula05 - 
+aula04 - Instalacao vscode, git e estrutura - ok
+aula05 - estrutura do documento             - ok
 aula06 - 
 aula07 - 
 aula08 - 
