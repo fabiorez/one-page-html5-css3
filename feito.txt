@@ -5,7 +5,7 @@ aula02 - Planejamento                       - ok
 aula03 - Criando um repositorio no github   - ok
 aula04 - Instalacao vscode, git e estrutura - ok
 aula05 - estrutura do documento             - ok
-aula06 - 
+aula06 - Link CSS e Validacao W3C           - ok
 aula07 - 
 aula08 - 
 aula09 - 
