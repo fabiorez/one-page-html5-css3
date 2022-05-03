@@ -9,7 +9,7 @@ aula04 - Instalacao vscode, git e estrutura - ok
 aula05 - estrutura do documento             - ok
 aula06 - Link CSS e Validacao W3C           - ok
 aula07 - Breakpoints                        - ok
-aula08 - Semantica e Heading
+aula08 - Semantica e Heading Tags           - ok
 aula09 - 
 aula10 - 
 aula11 - 
