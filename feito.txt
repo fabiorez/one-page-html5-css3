@@ -10,8 +10,8 @@ aula05 - estrutura do documento             - ok
 aula06 - Link CSS e Validacao W3C           - ok
 aula07 - Breakpoints                        - ok
 aula08 - Semantica e Heading Tags           - ok
-aula09 - 
-aula10 - 
+aula09 - Box Model CSS - Inspecao elementos - ok
+aula10 - Layout flexivel Tipografia Flexbox - ok
 aula11 - 
 aula12 - 
 aula13 - 
