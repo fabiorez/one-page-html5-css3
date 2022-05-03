@@ -1,3 +1,5 @@
+link da playlist: https://www.youtube.com/playlist?list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk
+
 aula01 - O que é um site one page           - ok
 aula02 - Planejamento                       - ok
          sites imagens: iconfinder.com > icon-icons.com/pt/ > pixabay.com/pt/
@@ -6,8 +8,8 @@ aula03 - Criando um repositorio no github   - ok
 aula04 - Instalacao vscode, git e estrutura - ok
 aula05 - estrutura do documento             - ok
 aula06 - Link CSS e Validacao W3C           - ok
-aula07 - 
-aula08 - 
+aula07 - Breakpoints                        - ok
+aula08 - Semantica e Heading
 aula09 - 
 aula10 - 
 aula11 - 
