@@ -18,7 +18,7 @@ aula11 - Estrutura do cabecalho - Header      - ok
 aula12 - Hyperlinks                           - ok
 aula13 - Flexbox                              - ok
 aula14 - Menu Responsivo usando apenas CSS    - ok
-aula15 - Banner estático e customização botão - 
+aula15 - Banner estático e customização botão - ok
 aula16 - 
 aula17 - 
 aula18 - 
