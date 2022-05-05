@@ -19,9 +19,9 @@ aula12 - Hyperlinks                           - ok
 aula13 - Flexbox                              - ok
 aula14 - Menu Responsivo usando apenas CSS    - ok
 aula15 - Banner estático e customização botão - ok
-aula16 - 
-aula17 - 
-aula18 - 
+aula16 - Abrindo issue e integrando no kanbam - ok
+aula17 - Alinhando imagem e texto com flexbox - ok
+aula18 - Menu responsivo - correcao bug       - 
 aula19 - 
 aula20 - 
 aula21 - 
