@@ -29,6 +29,11 @@ body {
   gap: 10px;
 }
 
+.Flex3 {
+  display: flex;
+  flex-direction: column;
+}
+
 .Botao {
   text-decoration: none;
   color: #fff;
@@ -62,7 +67,7 @@ header {
 }
 
 label {
-  font-size: 3em;  
+  font-size: 3em;
   position: fixed;
   top: 5px;
   right: 15px;
@@ -80,7 +85,7 @@ nav ul {
   transition: all 0.5s;
 }
 
-#check:checked ~ ul {
+#check:checked~ul {
   right: 0;
 }
 
@@ -141,31 +146,63 @@ main h2 {
   margin-top: 20px;
 }
 
+/* One Page */
+#onepage {
+  padding: 50px 10px;
+}
+
+#onepage h2 {
+  margin-bottom: 10px;
+}
+
+#onepage p {
+  margin-bottom: 25px;
+}
+
+#video iframe {
+  width: 340px;
+  height: 191px;
+  border: 0;
+}
+
 /***************************** Smartphone landscape */
 @media (min-width: 576px) {
+
   /* Layout */
   .Container {
     max-width: 540px;
   }
+
   /* Destaque */
-  main h1, main h2 {
+  main h1,
+  main h2 {
     text-shadow: #000 0.05em 0.05em 0.05em;
+  }
+
+  /* One page */
+  #video iframe {
+    width: 560px;
+    height: 315px;
   }
 }
 
 /***************************** Tablet Portrait */
 @media (min-width: 768px) {
+
   /* Layout */
   .Container {
     max-width: 720px;
   }
+
   /* Destaque */
   main {
     height: 45vh;
   }
+
   main h1 {
     font-size: 5.5em;
   }
+
   main h2 {
     font-size: 2em;
   }
@@ -173,10 +210,12 @@ main h2 {
 
 /************************** Tablet Landscape */
 @media (min-width: 992px) {
+
   /* Layout */
   .Container {
     max-width: 960px;
-  }  
+  }
+
   /* Destaque */
   main {
     height: 70vh;
@@ -185,11 +224,12 @@ main h2 {
 
 /* PC */
 @media (min-width: 1200px) {
+
   /* Layout */
   .Container {
     max-width: 1140px;
-  } 
-  
+  }
+
   /* Cabecalho */
   header {
     height: 120px;
@@ -237,5 +277,12 @@ main h2 {
   #destaqueSobre img {
     border-radius: 50%;
     margin-right: 50px;
+  }
+
+  /* One page */
+  .Flex3{
+    direction: row;
+    align-items: center;
+    text-align: center;
   }
 }
