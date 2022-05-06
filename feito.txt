@@ -24,5 +24,8 @@ aula17 - Alinhando imagem e texto com flexbox - ok
 aula18 - Menu responsivo - correcao bug       - ok
 aula19 - Incorporando um video                - ok
 aula20 - Hospedar gratuitamente no github     - ok
-aula21 - Criar QR Code e converter para pdf   - 
-aula22 - 
+aula21 - Criar QR Code e converter para pdf   - ok
+aula22 - Usando tag span para formatar texto  - ok
+aula23 - 
+aula24 - 
+aula25 - 
